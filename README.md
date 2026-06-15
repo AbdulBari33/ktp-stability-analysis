@@ -67,6 +67,3 @@ Run all cells top to bottom (**Kernel → Restart & Run All**).
 See `requirements.txt` for pinned versions.
 
 ---
-
-## Contact
-Submitted as part of the KTP Associate application (Ref: 43006).
