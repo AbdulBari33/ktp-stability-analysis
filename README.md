@@ -1,4 +1,4 @@
-# KTP Associate Pre-Interview Data Analysis Exercise | Pharmaceutical Formulation Comparison**
+# KTP Associate Pre-Interview Data Analysis Exercise | Pharmaceutical Formulation Comparison
 
 This repository contains a Jupyter notebook analysing an accelerated stability dataset for two prototype pharmaceutical formulations (Lot A014 and Lot B025). The analysis addresses six questions set by the development team, covering data quality, degradation trends, formulation comparison, kinetic modelling, and study limitations.
 
